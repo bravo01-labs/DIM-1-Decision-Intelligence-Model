@@ -1,0 +1,32 @@
+Copyright (c) 2026 Bravo01 Labs & Dynamics. All rights reserved.
+
+DIM-1 (Decision Intelligence Model) / Probabilistic Decision Intelligence Architecture
+(PDIA) — reference materials license.
+
+The materials in this repository (the public-edition specification, the reference
+governance gate, adapters, benchmark harnesses, notebooks, results and documentation)
+are made available for evaluation, benchmarking transparency, citation, and reproduction
+of the specific results reported in this repository's documentation.
+
+Permitted:
+  - Viewing, reading, and citing this material with attribution to Bravo01 Labs & Dynamics
+  - Running the code to reproduce the benchmark results reported here
+  - Referencing the architecture and methodology in evaluation, review, or procurement
+    contexts (including but not limited to government acquisition evaluation)
+
+Not permitted, without a separate written agreement with Bravo01 Labs & Dynamics:
+  - Building a competing product, service, or derivative architecture from this material
+  - Commercial use beyond evaluation and citation
+  - Redistribution of modified versions
+
+NOT INCLUDED IN THIS REPOSITORY AND NOT COVERED BY ANY LICENSE GRANT: trained model
+weights and checkpoints, training corpora beyond public reference datasets (e.g. Banking77),
+production training pipelines, optimization techniques, and any production DIM-1 engine.
+These remain proprietary to Bravo01 Labs & Dynamics.
+
+Third-party projects and datasets named in this repository are referenced for interface
+compatibility and comparison context only; no affiliation with or endorsement by their
+authors is implied, and they remain subject to their own licenses.
+
+For licensing inquiries, commercial use, or access to the trained/production components:
+contact@bravo-01-labs.com

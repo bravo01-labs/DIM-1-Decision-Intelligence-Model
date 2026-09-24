@@ -1,0 +1,14 @@
+[project]
+name = "dim-1-reference"
+version = "0.2.0"
+description = "Reference gate, benchmark harnesses and evaluation results for DIM-1 / PDIA"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

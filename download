@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+.env
+.env.*
+
+# Never commit model artifacts or keys
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.gguf
+*.bin
+*.pem
+*.key
+*.lic
